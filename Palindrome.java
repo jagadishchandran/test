@@ -1,5 +1,6 @@
 import java.util.*;
- 
+#added comments 
+
 class Palindrome
 {
    public static void main(String args[])
@@ -18,7 +19,7 @@ class Palindrome
       if (original.equals(reverse))
          System.out.println("Entered string is a palindrome.");
       else
-         System.out.println("Entered string is not a palindrome.");
+         System.out.println("Entered string is NOT a palindrome.");
  
    }
 }
