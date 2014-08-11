@@ -1,5 +1,5 @@
 import java.util.*;
-#added comments for testing
+#added comments for testing CI poll
 /** NameAndDate prints my name and the exact date and time. */
 public class NameAndDate
 { public static void main(String[] args)
