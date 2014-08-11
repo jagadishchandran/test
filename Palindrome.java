@@ -1,5 +1,5 @@
 import java.util.*;
-#added comments 
+# modified added comments 
 
 class Palindrome
 {
