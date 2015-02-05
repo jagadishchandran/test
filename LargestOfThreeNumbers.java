@@ -1,6 +1,6 @@
 import java.util.Scanner
 
-#testing Feb 5th 2015 new
+#testing Feb 5th 2015 
  
 class LargestOfThreeNumbers
 {
